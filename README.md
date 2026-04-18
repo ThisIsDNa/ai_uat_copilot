@@ -73,3 +73,4 @@ The app loads `.env` automatically when `python-dotenv` is installed (`load_dote
 <img width="1920" height="920" alt="Step 15" src="https://github.com/user-attachments/assets/5d2fd729-3f14-418d-85c5-08033402010d" />
 <img width="1920" height="921" alt="Step 16" src="https://github.com/user-attachments/assets/3f2df2c4-d243-4075-a963-54078f67ae17" />
 <img width="1920" height="922" alt="Step 17" src="https://github.com/user-attachments/assets/785b300f-effb-4b05-9d0b-d3f8e8535337" />
+<img width="1920" height="920" alt="Step 18" src="https://github.com/user-attachments/assets/c156a27b-64bb-4e11-885c-39c7d3a72901" />
