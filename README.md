@@ -54,17 +54,18 @@ The app loads `.env` automatically when `python-dotenv` is installed (`load_dote
 - **Changelog:** `CHANGELOG.md`  
 - **DOCX intake notes:** `docs/intake_notes.md`  
 
-## Publishing to GitHub
+## Sample Workflow
 
-From a clean copy of the repo (no `.venv`, no `__pycache__`, no `.env`):
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - AI UAT Copilot v1"
-git branch -M main
-git remote add origin https://github.com/<your-username>/ai-uat-copilot.git
-git push -u origin main
-```
-
-Before pushing, search the tree for accidental secrets (e.g. `sk-`, pasted keys). This repository is intended to contain **no** real API keys in tracked files.
+<img width="1920" height="1004" alt="Step 1" src="https://github.com/user-attachments/assets/01be3c2a-b1df-4259-914e-aa3cfb7e795d" />
+<img width="1920" height="1002" alt="Step 2" src="https://github.com/user-attachments/assets/100ca15d-8dfe-41bd-b39a-b9b9944ada3e" />
+<img width="1920" height="924" alt="Step 3" src="https://github.com/user-attachments/assets/be8e9ec9-8a1e-40cf-8cb3-be1eb1855307" />
+<img width="1920" height="921" alt="Step 4" src="https://github.com/user-attachments/assets/d879d383-e899-4dc1-9f6a-93f6edaff799" />
+<img width="1920" height="921" alt="Step 5" src="https://github.com/user-attachments/assets/aea6405a-a976-418b-bd02-6b44a9180183" />
+<img width="377" height="884" alt="Step 6" src="https://github.com/user-attachments/assets/e4d7bab0-0874-4f3d-b265-529b5ce2dd2c" />
+<img width="1920" height="920" alt="Step 7" src="https://github.com/user-attachments/assets/2532d0fc-8e8d-4f26-bdd4-fb8e4869a151" />
+<img width="376" height="886" alt="Step 8" src="https://github.com/user-attachments/assets/d4bcf388-6e63-4fb6-9e09-00b0310fe152" />
+<img width="378" height="574" alt="Step 9" src="https://github.com/user-attachments/assets/edf8980f-66c0-4864-ae6e-1a3ba15298b1" />
+<img width="1920" height="921" alt="Step 10" src="https://github.com/user-attachments/assets/fe650135-1217-4097-adcc-ff0aa7260bff" />
+<img width="378" height="884" alt="Step 11" src="https://github.com/user-attachments/assets/d38311e1-1120-423c-be30-b44b12d74891" />
+<img width="1920" height="921" alt="Step 12" src="https://github.com/user-attachments/assets/98bcdccc-a1ca-4873-80f2-1ab69dd29ceb" />
+<img width="1920" height="922" alt="Step 13" src="https://github.com/user-attachments/assets/bb32e7c5-53f2-48c5-9d59-e03dab991660" />
