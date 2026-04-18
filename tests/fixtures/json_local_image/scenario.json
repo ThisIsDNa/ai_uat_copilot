@@ -1,0 +1,17 @@
+{
+  "scenario_id": "regression_local_image",
+  "story_title": "Local image fixture",
+  "acceptance_criteria": [],
+  "test_cases": [
+    {
+      "id": "TC-01",
+      "text": "One step",
+      "steps": ["Do something"],
+      "expected_step_screenshots": [
+        { "path": "./shot.png", "label": "evidence" }
+      ]
+    }
+  ],
+  "changed_areas": [],
+  "known_dependencies": []
+}
