@@ -1,0 +1,64 @@
+{
+  "scenario_title": "Provider Portal Login and Password Reset Flow",
+  "workflow_name": "Authentication - Login and Password Recovery",
+  "business_goal": "Ensure providers can log in and recover access.",
+  "acceptance_criteria": [
+    {
+      "id": "AC-01",
+      "text": "Valid login redirects to dashboard"
+    },
+    {
+      "id": "AC-02",
+      "text": "Forgot password sends reset email"
+    },
+    {
+      "id": "AC-03",
+      "text": "Reset password allows login"
+    },
+    {
+      "id": "AC-04",
+      "text": "Invalid login shows error"
+    }
+  ],
+  "test_cases": [
+    {
+      "id": "TC-01",
+      "ac": "AC-01",
+      "steps": [
+        "Open login page",
+        "Enter valid credentials",
+        "Click login",
+        "Verify dashboard"
+      ]
+    },
+    {
+      "id": "TC-02",
+      "ac": "AC-02",
+      "steps": [
+        "Click forgot password",
+        "Enter email",
+        "Submit",
+        "Verify success message"
+      ]
+    },
+    {
+      "id": "TC-03",
+      "ac": "AC-03",
+      "steps": [
+        "Open reset email",
+        "Click link",
+        "Enter new password",
+        "Login with new password"
+      ]
+    },
+    {
+      "id": "TC-04",
+      "ac": "AC-04",
+      "steps": [
+        "Enter invalid credentials",
+        "Click login",
+        "Verify error message"
+      ]
+    }
+  ]
+}
