@@ -56,7 +56,6 @@ The app loads `.env` automatically when `python-dotenv` is installed (`load_dote
 
 ## Sample Workflow
 
-<img width="1920" height="1004" alt="Step 1" src="https://github.com/user-attachments/assets/01be3c2a-b1df-4259-914e-aa3cfb7e795d" />
 <img width="1920" height="1002" alt="Step 2" src="https://github.com/user-attachments/assets/100ca15d-8dfe-41bd-b39a-b9b9944ada3e" />
 <img width="1920" height="924" alt="Step 3" src="https://github.com/user-attachments/assets/be8e9ec9-8a1e-40cf-8cb3-be1eb1855307" />
 <img width="1920" height="921" alt="Step 4" src="https://github.com/user-attachments/assets/d879d383-e899-4dc1-9f6a-93f6edaff799" />
