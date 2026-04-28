@@ -67,9 +67,3 @@ The app loads `.env` automatically when `python-dotenv` is installed (`load_dote
 <img width="1920" height="921" alt="Step 10" src="https://github.com/user-attachments/assets/fe650135-1217-4097-adcc-ff0aa7260bff" />
 <img width="378" height="884" alt="Step 11" src="https://github.com/user-attachments/assets/d38311e1-1120-423c-be30-b44b12d74891" />
 <img width="1920" height="921" alt="Step 12" src="https://github.com/user-attachments/assets/98bcdccc-a1ca-4873-80f2-1ab69dd29ceb" />
-<img width="1920" height="922" alt="Step 13" src="https://github.com/user-attachments/assets/bb32e7c5-53f2-48c5-9d59-e03dab991660" />
-<img width="1920" height="894" alt="Step 14" src="https://github.com/user-attachments/assets/21c01de4-7c77-43d2-a795-d76524055409" />
-<img width="1920" height="920" alt="Step 15" src="https://github.com/user-attachments/assets/5d2fd729-3f14-418d-85c5-08033402010d" />
-<img width="1920" height="921" alt="Step 16" src="https://github.com/user-attachments/assets/3f2df2c4-d243-4075-a963-54078f67ae17" />
-<img width="1920" height="922" alt="Step 17" src="https://github.com/user-attachments/assets/785b300f-effb-4b05-9d0b-d3f8e8535337" />
-<img width="1920" height="920" alt="Step 18" src="https://github.com/user-attachments/assets/c156a27b-64bb-4e11-885c-39c7d3a72901" />
